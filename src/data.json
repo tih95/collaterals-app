@@ -1,0 +1,1059 @@
+{
+   "speakers": [
+      {
+         "name": "George Magoufis",
+         "country": "Greece",
+         "location": "Athens, Greece",
+         "sessionTime": "Day 1, 7:30",
+         "link": "https://www.researchgate.net/profile/George_Magoufis"
+      },
+      {
+         "name": "Ossama Mansour",
+         "country": "Egypt",
+         "location": "Alexandria, Egypt",
+         "sessionTime": "Day 1, 07:30",
+         "link": "https://www.researchgate.net/profile/Osama_Mansour"
+      },
+      {
+         "name": "Gregory Del Zoppo",
+         "country": "Sweden",
+         "location": "Seattle, WA, USA",
+         "sessionTime": "Day 1, 08:10",
+         "link": "https://www.researchgate.net/scientific-contributions/62522325_Gregory_J_del_Zoppo"
+      },
+      {
+         "name": "Olli Suomalainen",
+         "country": "Finland",
+         "location": "Helsinki, Finland",
+         "sessionTime": "Day 1, 08:10",
+         "link": ""
+      },
+      {
+         "name": "Mats Cronqvist",
+         "country": "Sweden",
+         "location": "Stockholm, Sweden",
+         "sessionTime": "Day 1, 08:10",
+         "link": "https://www.researchgate.net/profile/Mats_Cronqvist"
+      },
+      {
+         "name": "Mia Von Euler",
+         "country": "Sweden",
+         "location": "Solna, Sweden",
+         "sessionTime": "Day 1, 08:10",
+         "link": "https://www.researchgate.net/profile/Mia_Euler"
+      },
+      {
+         "name": "Urs Fischer",
+         "country": "Switzerland",
+         "location": "Bern, Switzerland",
+         "sessionTime": "Day 1, 08:50",
+         "link": "https://www.researchgate.net/profile/Urs_Fischer"
+      },
+      {
+         "name": "Marios Psychogios",
+         "country": "Germany",
+         "location": "Basel, Switzerland",
+         "sessionTime": "Day 1, 08:50",
+         "link": "https://www.researchgate.net/profile/Marios_Psychogios"
+      },
+      {
+         "name": "Werner Hacke",
+         "country": "Germany",
+         "location": "Heidelberg, Germany",
+         "sessionTime": "Day 1, 08:50",
+         "link": "https://www.researchgate.net/scientific-contributions/2080744231_Werner_Hacke"
+      },
+      {
+         "name": "Italo Linfante",
+         "country": "Italy",
+         "location": "Miami, FL, USA",
+         "sessionTime": "Day 1, 09:30",
+         "link": "https://www.researchgate.net/profile/Italo_Linfante"
+      },
+      {
+         "name": "David Carone",
+         "country": "Italy",
+         "location": "Milan, Italy",
+         "sessionTime": "Day 1, 09:30",
+         "link": ""
+      },
+      {
+         "name": "Simone Beretta",
+         "country": "Italy",
+         "location": "Milan, Italy",
+         "sessionTime": "Day 1, 09:30",
+         "link": "https://www.researchgate.net/profile/Simone_Beretta"
+      },
+      {
+         "name": "Susanna Diamanti",
+         "country": "Italy",
+         "location": "Milan, Italy",
+         "sessionTime": "Day 1, 09:30",
+         "link": "https://www.researchgate.net/scientific-contributions/2154995690_Susanna_Diamanti"
+      },
+      {
+         "name": "Tae-Hee Cho",
+         "country": "Italy",
+         "location": "Milan, Italy",
+         "sessionTime": "Day 1, 09:30",
+         "link": "https://www.researchgate.net/scientific-contributions/2099268223_Tae_Hee_Cho"
+      },
+      {
+         "name": "Vincent Costalat",
+         "country": "France",
+         "location": "Montpelier, France",
+         "sessionTime": "Day 1, 09:30",
+         "link": "https://www.researchgate.net/profile/Vincent_Costalat"
+      },
+      {
+         "name": "Jean Claude Baron",
+         "country": "France",
+         "location": "Paris, France",
+         "sessionTime": "Day 1, 09:30",
+         "link": "https://www.neuroscience.cam.ac.uk/directory/profile.php?jcb54"
+      },
+      {
+         "name": "Pierre Seners",
+         "country": "France",
+         "location": "Paris, France",
+         "sessionTime": "Day 1, 09:30",
+         "link": "https://www.researchgate.net/profile/Pierre_Seners"
+      },
+      {
+         "name": "Marc Ribo",
+         "country": "Spain",
+         "location": "Barcelona, Spain",
+         "sessionTime": "Day 1, 10:40",
+         "link": "https://www.researchgate.net/profile/Marc_Ribo3"
+      },
+      {
+         "name": "Juan Arenillas",
+         "country": "Spain",
+         "location": "Valladolid, Spain",
+         "sessionTime": "Day 1, 10:40",
+         "link": "https://www.researchgate.net/profile/Juan_Arenillas"
+      },
+      {
+         "name": "Pedro Vilela",
+         "country": "Portugal",
+         "location": "Lisbon, Portugal",
+         "sessionTime": "Day 1, 10:40",
+         "link": "https://www.researchgate.net/scientific-contributions/2113077885_Pedro_Vilela"
+      },
+      {
+         "name": "Joāo Sargento Freitas",
+         "country": "Portugal",
+         "location": "Lisbon, Portugal",
+         "sessionTime": "Day 1, 10:40",
+         "link": "https://www.researchgate.net/profile/Joao_Sargento-Freitas"
+      },
+      {
+         "name": "Marylyn Cipolla",
+         "country": "United States",
+         "location": "Burlington, VT, USA",
+         "sessionTime": "Day 1, 11:20",
+         "link": "https://www.researchgate.net/scientific-contributions/24681444_Marilyn_J_Cipolla"
+      },
+      {
+         "name": "Randy Marshall",
+         "country": "United States",
+         "location": "New York, NY, USA",
+         "sessionTime": "Day 1, 11:20",
+         "link": "https://www.researchgate.net/profile/Randolph_Marshall"
+      },
+      {
+         "name": "Adrienne Dula",
+         "country": "Canada",
+         "location": "Austin, TX, USA",
+         "sessionTime": "Day 1, 13:00",
+         "link": "https://www.researchgate.net/profile/Adrienne_Dula"
+      },
+      {
+         "name": "Brian Buck",
+         "country": "Canada",
+         "location": "Edmonton, AB, Canada",
+         "sessionTime": "Day 1, 13:00",
+         "link": "https://www.researchgate.net/profile/Brian_Buck2"
+      },
+      {
+         "name": "Glen Jickling",
+         "country": "Canada",
+         "location": "Edmonton, AB, Canada",
+         "sessionTime": "Day 1, 13:00",
+         "link": "https://www.researchgate.net/scientific-contributions/2110823686_Glen_Jickling"
+      },
+      {
+         "name": "Ian Winship", 
+         "country": "Canada",
+         "location": "Edmonton, AB, Canada",
+         "sessionTime": "Day 1, 13:00",
+         "link": "https://www.researchgate.net/profile/Ian_Winship"
+      },
+      {
+         "name": "Bernard Yan",
+         "country": "Australia",
+         "location": "Parkville, Australia",
+         "sessionTime": "Day 1, 13:40",
+         "link": "https://www.researchgate.net/profile/Bernard_Yan"
+      },
+      {
+         "name": "Anne Alexandrov",
+         "country": "Fiji",
+         "location": "Memphis, TN, USA",
+         "sessionTime": "Day 1, 13:40",
+         "link": "https://www.researchgate.net/profile/Anne_Alexandrov"
+      },
+      {
+         "name": "Mark Parsons",
+         "country": "Australia",
+         "location": "Melbourne, Australia",
+         "sessionTime": "Day 1, 13:40",
+         "link": "https://www.researchgate.net/scientific-contributions/39204865_Mark_Parsons"
+      },
+      {
+         "name": "Anna Ranta",
+         "country": "New Zealand", 
+         "location": "Wellington, New Zealand",
+         "sessionTime": "Day 1, 13:40",
+         "link": "https://www.researchgate.net/profile/Anna_Ranta"
+      },
+      {
+         "name": "Min Lou",
+         "country": "China",
+         "location": "Hangzhou, China",
+         "sessionTime": "Day 1, 16:00",
+         "link": "http://en.z2hospital.com/cms/doctordetails.aspx?lmid=130&&did=117"
+      },
+      {
+         "name": "Liping Liu",
+         "country": "China",
+         "location": "Beijing, China",
+         "sessionTime": "Day 1, 16:00",
+         "link": "https://www.researchgate.net/scientific-contributions/2125229778_Liping_Liu"
+      },
+      {
+         "name": "Thomas Leung",
+         "country": "Hong Kong",
+         "location": "Hong Kong",
+         "sessionTime": "Day 1, 16:40",
+         "link": "https://scholar.google.com/citations?user=lDfTRkYAAAAJ&hl=en"
+      },
+      {
+         "name": "Xinyi Leng",
+         "country": "Hong Kong",
+         "location": "Hong Kong",
+         "sessionTime": "Day 1, 16:40",
+         "link": "https://www.researchgate.net/profile/Xinyi_Leng"
+      },
+      {
+         "name": "Antonio Moya",
+         "country": "Philippines",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 1, 16:40",
+         "link": "https://www.doximity.com/pub/antonio-moya-md"
+      },
+      {
+         "name": "Cristina San Jose",
+         "country": "Philippines",
+         "location": "Quezon City, Philippines",
+         "sessionTime": "Day 1, 16:40",
+         "link": ""
+      },
+      {
+         "name": "Manilen Deunas",
+         "country": "Philippines",
+         "location": "Quezon City, Philippines",
+         "sessionTime": "Day 1, 16:40",
+         "link": ""
+      },
+      {
+         "name": "Vijay K Sharma",
+         "country": "Singapore",
+         "location": "Singapore",
+         "sessionTime": "Day 1, 16:40",
+         "link": "https://www.researchgate.net/profile/Vijay_Sharma22"
+      },
+      {
+         "name": "Nguyen Ngoc Cuong",
+         "country": "Vietnam",
+         "location": "Vietnam",
+         "sessionTime": "Day 1, 16:40",
+         "link": ""
+      },
+      {
+         "name": "Dao Viet Phuong",
+         "country": "Vietnam",
+         "location": "Vietnam",
+         "sessionTime": "Day 1, 16:40",
+         "link": ""
+      },
+      {
+         "name": "Toi Chu Dinh",
+         "country": "Vietnam",
+         "location": "Vietnam",
+         "sessionTime": "Day 1, 16:40",
+         "link": "https://www.researchgate.net/profile/Dinh_Toi_Chu"
+      },
+      {
+         "name": "Nerses Sanossian",
+         "country": "Armenia",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 1, 19:20",
+         "link": "https://www.researchgate.net/profile/Nerses_Sanossian",
+      },
+      {
+         "name": "Nune Yeghiazaryan",
+         "country": "Armenia",
+         "location": "Yerevan, Armenia",
+         "sessionTime": "Day 1, 19:20",
+         "link": "https://www.erebunimed.com/eng/doctor/95/department/Nune-Yeghiazaryan,-MD"
+      },
+      {
+         "name": "Alexander Tsiskaridze",
+         "country": "Georgia",
+         "location": "Tbilisi, Georgia",
+         "sessionTime": "Day 1, 19:20",
+         "link": "https://www.researchgate.net/profile/Alexander_Tsiskaridze"
+      },
+      {
+         "name": "Zurab Nadareishvilli",
+         "country": "Georgia",
+         "location": "Washington DC, USA",
+         "sessionTime": "Day 1, 19:20",
+         "link": "https://scholar.google.com/citations?user=BYsctCEAAAAJ&hl=en"
+      },
+      {
+         "name": "Nabil Seyidov",
+         "country": "Azerbaijan",
+         "location": "Baku, Azerbaijan",
+         "sessionTime": "Day 1, 19:20",
+         "link": "https://www.researchgate.net/scientific-contributions/2134970190_Nabil_Z_Seyidov"
+      },
+      {
+         "name": "Negmatova Navbahor",
+         "country": "Tajikistan",
+         "location": "Dushanbe, Tajikistan",
+         "sessionTime": "Day 1, 20:00",
+         "link": ""
+      },
+      {
+         "name": "Yakutkhon Madjidova",
+         "country": "Uzbekistan",
+         "location": "Tashkent, Uzbekistan",
+         "sessionTime": "Day 1, 20:00",
+         "link": "https://www.researchgate.net/scientific-contributions/2079162032_Yakutkhon_Madjidova"
+      },
+      {
+         "name": "Inna Lutsenko",
+         "country": "Kyrgyzstan",
+         "location": "Bishkek, Kyrgyzstan",
+         "sessionTime": "Day 1, 20:00",
+         "link": "https://www.researchgate.net/scientific-contributions/2079162032_Yakutkhon_Madjidova"
+      },
+      {
+         "name": "Aneesh Singhal",
+         "country": "India",
+         "location": "Boston, MA, USA",
+         "sessionTime": "Day 1, 20:40",
+         "link": "https://www.researchgate.net/scientific-contributions/39543430_Aneesh_B_Singhal"
+      },
+      {
+         "name": "PN Sylaja",
+         "country": "India",
+         "location": "Ludhiana, India",
+         "sessionTime": "Day 1, 20:40",
+         "link": "https://www.researchgate.net/profile/PN_Sylaja"
+      },
+      {
+         "name": "Lekhjung Thapa",
+         "country": "Nepal",
+         "location": "Kathmandu, Nepal",
+         "sessionTime": "Day 1, 20:40",
+         "link": "https://www.researchgate.net/profile/Lekhjung_Thapa2"
+      },
+      {
+         "name": "Kunakorn Atchaneeyasakul",
+         "country": "Thailand",
+         "location": "Pittsburgh, PA, USA",
+         "sessionTime": "Day 1, 20:40",
+         "link": "https://www.researchgate.net/profile/Kunakorn_Atchaneeyasakul"
+      },
+      {
+         "name": "Nijasri Suwanwela",
+         "country": "Thailand",
+         "location": "Bangkok, Thailand",
+         "sessionTime": "Day 1, 20:40",
+         "link": "https://www.angels-initiative.com/angels-community/meet-the-team/nijasri-suwanwela"
+      },
+      {
+         "name": "Yangchen",
+         "country": "Bhutan",
+         "location": "Thimpu, Bhutan",
+         "sessionTime": "Day 1, 20:40",
+         "link": ""
+      },
+      {
+         "name": "Tashi Tenzin",
+         "country": "Bhutan",
+         "location": "Thimpu, Bhutan",
+         "sessionTime": "Day 1, 20:40",
+         "link": "researchgate.net/profile/Tashi_Tenzin3"
+      },
+      {
+         "name": "Boris Chulpayev",
+         "country": "Russia",
+         "location": "Memphis, TN, USA",
+         "sessionTime": "Day 1, 21:20",
+         "link:": "https://health.usnews.com/doctors/boris-chulpayev-730069" 
+      },
+      {
+         "name": "Dmytro Lebedynets",
+         "country": "Ukraine",
+         "location": "Kharkiv, Ukraine",
+         "sessionTime": "Day 1, 21:20",
+         "link": ""
+      },
+      {
+         "name": "Lyudmila Anatskaya",
+         "country": "Belarus",
+         "location": "Belarus",
+         "sessionTime": "Day 1, 21:20",
+         "link": ""
+      },
+      {
+         "name": "Roni Eichel",
+         "country": "Israel",
+         "location": "Jerusalem, Israel",
+         "sessionTime": "Day 2, 07:30",
+         "link": "https://www.researchgate.net/scientific-contributions/38821545_Roni_Eichel"
+      },
+      {
+         "name": "Yoram Solberg",
+         "country": "Israel",
+         "location": "Caesarea, Israel",
+         "sessionTime": "Day 2, 07:30",
+         "link": "https://www.researchgate.net/scientific-contributions/2075857285_Yoram_Solberg"
+      },
+      {
+         "name": "David Tanne",
+         "country": "Israel",
+         "location": "Tel Aviv, Israel",
+         "sessionTime": "Day 2, 07:30",
+         "link": "https://www.researchgate.net/profile/David_Tanne"
+      },
+      {
+         "name": "Ronen Leker",
+         "country": "Israel",
+         "location": "Jerusalem, Israel",
+         "sessionTime": "Day 2, 07:30",
+         "link": "https://www.researchgate.net/scientific-contributions/38328405_Ronen_R_Leker"
+      },
+      {
+         "name": "Natan Bornstein",
+         "country": "Israel",
+         "location": "Tel Aviv, Israel",
+         "sessionTime": "Day 2, 07:30",
+         "link": "https://www.researchgate.net/profile/Natan_Bornstein"
+      },
+      {
+         "name": "Yomi Ogun",
+         "country": "Nigeria",
+         "location": "Lagos, Nigeria",
+         "sessionTime": "Day 2, 08:10",
+         "link": "https://www.researchgate.net/scientific-contributions/38654615_SA_Ogun"
+      },
+      {
+         "name": "Fred Sarfo",
+         "country": "Ghana",
+         "location": "Accra, Ghana",
+         "sessionTime": "Day 2, 08:10",
+         "link": "https://www.researchgate.net/profile/Fred_Sarfo"
+      },
+      {
+         "name": "Kathleen Bateman",
+         "country": "South Africa",
+         "location": "Cape Town, South Africa",
+         "sessionTime": "Day 2, 08:10",
+         "link": "https://www.researchgate.net/profile/Kathleen_Bateman"
+      },
+      {
+         "name": "Robert Mikulik",
+         "country": "Czech Republic",
+         "location": "Brno, Czech Republic",
+         "sessionTime": "Day 2, 08:50",
+         "link": "https://www.researchgate.net/profile/Robert_Mikulik2"
+      },
+      {
+         "name": "Ales Tomek",
+         "country": "Czech Republic",
+         "location": "Prague, Czech Republic",
+         "sessionTime": "Day 2, 08:50",
+         "link": "https://www.researchgate.net/profile/Ales_Tomek2"
+      },
+      {
+         "name": "Viktor Szeder",
+         "country": "Czech Republic",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 2, 08:50",
+         "link": "https://www.researchgate.net/profile/Viktor_Szeder"
+      },
+      {
+         "name": "Georgi Krastev",
+         "country": "Slovakia",
+         "location": "Trnava, Slovakia",
+         "sessionTime": "Day 2, 08:50",
+         "link": "https://www.researchgate.net/profile/Georgi_Krastev"
+      },
+      {
+         "name": "Miroslav Mako",
+         "country": "Slovakia",
+         "location": "Trnava, Slovakia",
+         "sessionTime": "Day 2, 08:50",
+         "link": "https://www.researchgate.net/profile/Miroslav_Mako"
+      },
+      {
+         "name": "Jozef Haring",
+         "country": "Slovakia",
+         "location": "Trnava, Slovakia",
+         "sessionTime": "Day 2, 08:50",
+         "link": ""
+      },
+      {
+         "name": "Adam Kobayashi",
+         "country": "Poland",
+         "location": "Warsaw, Poland",
+         "sessionTime": "Day 2, 08:50",
+         "link": "https://www.researchgate.net/profile/Adam_Kobayashi"
+      },
+      {
+         "name": "Radoslav Raychev",
+         "country": "Bulgaria",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 2, 09:30",
+         "link": "https://www.researchgate.net/profile/Radoslav_Raychev"
+      },
+      {
+         "name": "Ivan Milanov",
+         "country": "Bulgaria",
+         "location": "Bulgaria",
+         "sessionTime": "Day 2, 09:30",
+         "link": "https://www.researchgate.net/profile/Ivan_Milanov2"
+      },
+      {
+         "name": "Vladimir Kalousek",
+         "country": "Croatia",
+         "location": "Zagreb, Croatia",
+         "sessionTime": "Day 2, 09:30",
+         "link": "https://www.researchgate.net/profile/Vladimir_Kalousek"
+      },
+      {
+         "name": "David Ozretic",
+         "country": "Croatia",
+         "location": "Zagreb, Croatia",
+         "sessionTime": "Day 2, 09:30",
+         "link": "https://www.researchgate.net/scientific-contributions/38746921_David_Ozretic"
+      },
+      {
+         "name": "Tudor Jovin",
+         "country": "Romania",
+         "location": "Pittsburgh, PA, USA",
+         "sessionTime": "Day 2, 09:30",
+         "link": "https://www.researchgate.net/profile/Tudor_Jovin"
+      },
+      {
+         "name": "Fabien Scalzo",
+         "country": "Belgium",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 2, 10:40",
+         "link": "https://www.researchgate.net/scientific-contributions/38673250_Fabien_Scalzo"
+      },
+      {
+         "name": "Jelle Demeestere",
+         "country": "Belgium",
+         "location": "Leuven, Belgium",
+         "sessionTime": "Day 2, 10:40",
+         "link": "https://www.researchgate.net/profile/Jelle_Demeestere"
+      },
+      {
+         "name": "Olivier Francois",
+         "country": "Belgium",
+         "location": "Kortrijk, Belgium",
+         "sessionTime": "Day 2, 10:40",
+         "link": "https://www.researchgate.net/profile/Olivier_Francois5"
+      },
+      {
+         "name": "Bart Emmer",
+         "country": "Netherlands",
+         "location": "Amsterdam, Netherlands",
+         "sessionTime": "Day 2, 10:40",
+         "link": "https://www.researchgate.net/profile/Bart_Emmer"
+      },
+      {
+         "name": "Sheila Martins",
+         "country": "Brazil",
+         "location": "Porto Alegre, Brazil",
+         "sessionTime": "Day 2, 11:20",
+         "link": "https://www.researchgate.net/profile/Sheila_Martins"
+      },
+      {
+         "name": "Fernando Vinuela",
+         "country": "Uruguay",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 2, 11:20",
+         "link": "https://www.researchgate.net/profile/Fernando_Vinuela"
+      },
+      {
+         "name": "Claudia Camejo",
+         "country": "Uruguay",
+         "location": "Montevideo, Uruguay",
+         "sessionTime": "Day 2, 11:20",
+         "link": "https://www.researchgate.net/scientific-contributions/2075763298_Claudia_Camejo"
+      },
+      {
+         "name": "Pedro Lylyk",
+         "country": "Argentina",
+         "location": "Beunos Aires, Argentina",
+         "sessionTime": "Day 2, 13:00",
+         "link": "https://www.researchgate.net/profile/Pedro_Lylyk"
+      },
+      {
+         "name": "Eloy Mansilla",
+         "country": "Chile",
+         "location": "Santiago, Chile",
+         "sessionTime": "Day 2, 13:00",
+         "link": "https://www.researchgate.net/profile/Eloy_Mansilla"
+      },
+      {
+         "name": "Alan Flores",
+         "country": "Paraguay",
+         "location": "San Lorenzo, Paraguay",
+         "sessionTime": "Day 2, 13:00",
+         "link": "https://www.researchgate.net/profile/Alan_Flores2"
+      },
+      {
+         "name": "Luis Diaz Escobar",
+         "country": "Paraguay",
+         "location": "San Lorenzo, Paraguay",
+         "sessionTime": "Day 2, 13:00",
+         "link": "https://scholar.google.com/scholar?as_allsubj=all&as_sauthors=%22Diaz-Escobar%2C+Luis%22&as_q="
+      },
+      {
+         "name": "Fatima Pedrozo",
+         "country": "Paraguay",
+         "location": "San Lorenzo, Paraguay",
+         "sessionTime": "Day 2, 13:00",
+         "link": ""
+      },
+      {
+         "name": "Jason Hinman",
+         "country": "United States",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 2, 13:40",
+         "link": "https://www.researchgate.net/profile/Jason_Hinman"
+      },
+      {
+         "name": "Adam DeHavenon",
+         "country": "United States",
+         "location": "Salt Lake City, UT, USA",
+         "sessionTime": "Day 2, 13:40",
+         "link": "https://www.researchgate.net/profile/Adam_De_Havenon"
+      },
+      {
+         "name": "Antonio Arauz",
+         "country": "Mexico",
+         "location": "Mexico City, Mexico",
+         "sessionTime": "Day 2, 14;50",
+         "link": "https://scholar.google.com/citations?user=7ePpAVUAAAAJ"
+      },
+      {
+         "name": "Steven Warach",
+         "country": "Mexico",
+         "location": "Austin, TX, USA",
+         "sessionTime": "Day 2, 14;50",
+         "link": "https://researchers.dellmed.utexas.edu/en/persons/steve-warach"
+      },
+      {
+         "name": "Louis Caplan",
+         "country": "Mexico",
+         "location": "Boston, MA, USA",
+         "sessionTime": "Day 2, 14;50",
+         "link": "https://www.researchgate.net/profile/Louis_Caplan"
+      },
+      {
+         "name": "Nobuyuki Sakai",
+         "country": "Japan",
+         "location": "Kobe, Japan",
+         "sessionTime": "Day 2, 15:30",
+         "link": "https://www.researchgate.net/profile/Nobuyuki_Sakai"
+      },
+      {
+         "name": "Naoki Kaneki",
+         "country": "Japan",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 2, 15:30",
+         "link": ""
+      },
+      {
+         "name": "Amarbayasgalan Ravdan",
+         "country": "Mongolia",
+         "location": "Ulaanbaatar, Mongolia",
+         "sessionTime": "Day 2, 16:10",
+         "link": "https://www.researchgate.net/scientific-contributions/2100580121_Amarbayasgalan_Ravdan"
+      },
+      {
+         "name": "Ganbaatar Rentsenkhuu",
+         "country": "Mongolia",
+         "location": "Ulaanbaatar, Mongolia",
+         "sessionTime": "Day 2, 16:10",
+         "link": "http://www.cajms.mn/journal/view.html?uid=93&sort=&scale=&key=year&keyword=&s_v=4&s_n=1&pn=vol&year=2018&vmd=Full"
+      },
+      {
+         "name": "Woo-Keun Seo",
+         "country": "Korea",
+         "location": "Los Angeles, CA, USA",
+         "sessionTime": "Day 2, 16:10",
+         "link": "https://www.researchgate.net/profile/Woo_Keun_Seo"
+      },
+      {
+         "name": "Jongwon Chung",
+         "country": "Korea",
+         "location": "Seoul, Korea",
+         "sessionTime": "Day 2: 16:10",
+         "link": "https://www.researchgate.net/profile/Jong_Won_Chung2"
+      }
+   ],
+   "events": [
+      {
+         "country": "Greece & Egypt",
+         "speakers": [
+            { "name": "George Magoufis" },
+            { "name": "Ossama Mansour" },
+         ],
+         "startTime": (new Date('November 5, 2019 07:30:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 08:10:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Sweden & Finland",
+         "speakers": [
+            { "name": "Mats Cronqvist" },
+            { "name": "Mia Von Euler" },
+            { "name": "Gregory Del Zoppo" },
+            { "name": "Olli Suomalainen" }
+         ],
+         "startTime": (new Date('November 5, 2019 08:10:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 08:50:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Switzerland & Germany",
+         "speakers": [
+            { "name": "Urs Fischer" },
+            { "name": "Marios Psychogios" },
+            { "name": "Werner Hacke" }
+         ],
+         "startTime": (new Date('November 5, 2019 08:50:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 09:30:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Italy & France",
+         "speakers": [
+            { "name": "Italo Linfante" },
+            { "name": "David Carone" },
+            { "name": "Simone Beretta" },
+            { "name": "Susanna Diamanti" },
+            { "name": "Tae-Hee Cho" },
+            { "name": "Vincent Costalat" },
+            { "name": "Jean Claude Baron" },
+            { "name": "Pierre Seners" }
+         ],
+         "startTime": (new Date('November 5, 2019 09:30:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 10:10:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Spain & Portugal",
+         "speakers": [
+            { "name": "Marc Ribo" },
+            { "name": "Juan Arenillas" },
+            { "name": "Pedro Vilela" },
+            { "name": "Joao Sargento Freitas" }
+         ],
+         "startTime": (new Date('November 5, 2019 10:40:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 11:20:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "United States",
+         "speakers": [
+            { "name": "Marilyn Cipolla" },
+            { "name": "Randy Marshall" },
+         ],
+         "startTime": (new Date('November 5, 2019 11:20:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 12:00:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Lunch at Plateia",
+         "speakers": [],
+         "startTime": (new Date('November 5, 2019 12:00:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 13:00:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Canada",
+         "speakers": [
+            { "name": "Adrienne Dula" },
+            { "name": "Brian Buck" },
+            { "name": "Ian Winship" },
+            { "name": "Glen Jickling" }
+         ],
+         "startTime": (new Date('November 5, 2019 13:00:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 13:40:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Australia, Fiji & New Zealand",
+         "speakers": [
+            { "name": "Bernard Yan" },
+            { "name": "Mark Parsons" },
+            { "name": "Anne Alexandrov" },
+            { "name": "Anna Ranta" }
+         ],
+         "startTime": (new Date('November 5, 2019 13:40:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 14:20:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Neurovasuclar Devices & Technologies: Exhibitor Workshop",
+         "speakers": [],
+         "startTime": (new Date('November 5, 2019 14:20:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 15:00:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "China",
+         "speakers": [
+            { "name": "Min Lou" },
+            { "name": "Liping Liu" }
+         ],
+         "startTime": (new Date('November 5, 2019 16:00:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 16:40:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Hong Kong, Philippines, Singapore & Vietnam",
+         "speakers": [
+            { "name": "Thomas Leung" },
+            { "name": "Cindy Leng" },
+            { "name": "Antonio Moya" },
+            { "name": "Cristina San Jose" },
+            { "name": "Manilen Duenas" },
+            { "name": "Vijay K Sharma"},
+            { "name": "Nguyen Ngoc Cuong" },
+            { "name": "Dao Viet Phuong" },
+            { "name": "Toi Chu Dinh" }
+         ],
+         "startTime": (new Date('November 5, 2019 16:40:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 17:20:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Nuerovascular Imaging Research Core Lab Tour Before Dinner Session",
+         "speakers": [],
+         "startTime": (new Date('November 5, 2019 17:20:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 19:20:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Armenia, Georgia & Azerbaijan",
+         "speakers": [
+            { "name": "Nerses Sanossian" },
+            { "name": "Nune Yeghiazaryan" },
+            { "name": "Zurab Nadareishvilli" },
+            { "name": "Alexander Tsiskaridze" },
+            { "name": "Nabil Seyidov" }
+         ],
+         "startTime": (new Date('November 5, 2019 19:20:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 20:00:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Tajikistan, Uzbekistan & Kyrgyzstan",
+         "speakers": [
+            { "name": "Negmatova Navbahor" },
+            { "name": "Yakutkhon Madjidova" },
+            { "name": "Inna Lutsenko" }
+         ],
+         "startTime": (new Date('November 5, 2019 20:00:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 20:40:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "India, Nepal, Thailand & Bhutan",
+         "speakers": [
+            { "name": "Aneesh Singhal" },
+            { "name": "PN Sylaja" },
+            { "name": "Lekhjung Thapa" },
+            { "name": "Kunakorn Atchaneeyasakul" },
+            { "name": "Nijasri Suwanwela" },
+            { "name": "Yangchen" },
+            { "name": "Tashi Tenzin" }
+         ],
+         "startTime": (new Date('November 5, 2019 20:40:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 21:20:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Russia, Ukraine & Belarus",
+         "speakers": [
+            { "name": "Boris Chulpayev" },
+            { "name": "Dmytro Lebedinetz" },
+            { "name": "Lyudmila Anatskaya" }
+         ],
+         "startTime": (new Date('November 5, 2019 21:20:00')).getTime() / 1000,
+         "endTime": (new Date('November 5, 2019 22:00:00')).getTime() / 1000,
+         "day": 1
+      },
+      {
+         "country": "Israel",
+         "speakers": [
+            { "name": "Roni Eichel" },
+            { "name": "Yoram Solberg" },
+            { "name": "David Tanne" },
+            { "name": "Ronen Lekder" },
+            { "name": "Natan Bornstein" },
+         ],
+         "startTime": (new Date('November 6, 2019 07:30:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 08:10:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Nigeria, Ghana & South Africa",
+         "speakers": [
+            { "name": "Yomi Ogun" },
+            { "name": "Fred Sarfo" },
+            { "name": "Kathleen Bateman" }
+         ],
+         "startTime": (new Date('November 6, 2019 08:10:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 08:50:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Czech Republic, Slovakia & Poland",
+         "speakers": [
+            { "name": "Robert Mikulik" },
+            { "name": "Alex Tomek" },
+            { "name": "Viktor Szeder" },
+            { "name": "Georgi Krastev" },
+            { "name": "Miroslav Mako" },
+            { "name": "Jozef Haring" },
+            { "name": "Adam Kobayashi" }
+         ],
+         "startTime": (new Date('November 6, 2019 08:50:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 09:30:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Bulgaria, Croatia & Romania",
+         "speakers": [
+            { "name": "Radoslav Raychev" },
+            { "name": "Ivan Milanov" },
+            { "name": "Vladimir Kalousek" },
+            { "name": "David Ozretić" },
+            { "name": "Tudor Jovin" },
+         ],
+         "startTime": (new Date('November 6, 2019 09:30:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 10:10:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Belgium & Netherlands",
+         "speakers": [
+            { "name": "Fabien Scalzo" },
+            { "name": "Jelle Demeestere" },
+            { "name": "Olivier Francois" },
+            { "name": "Bart Emmer" }
+         ],
+         "startTime": (new Date('November 6, 2019 10:40:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 11:20:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Brazil & Uruguay",
+         "speakers": [
+            { "name": "Sheila C Martins" },
+            { "name": "Fernando Vinuela" },
+            { "name": "Claudia Camejo" }
+         ],
+         "startTime": (new Date('November 6, 2019 11:20:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 12:00:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Lunch at Plateia",
+         "speakers": [],
+         "startTime": (new Date('November 6, 2019 12:00:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 13:00:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Argentina, Chile & Paraguay",
+         "speakers": [
+            { "name": "Pedro Lylyk" },
+            { "name": "Edward Feldmann" },
+            { "name": "Eloy Mansilla" },
+            { "name": "Alan Flores" },
+            { "name": "Luis Diaz Escobar" },
+            { "name": "Fatima Pedrozo" },
+         ],
+         "startTime": (new Date('November 6, 2019 13:00:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 13:40:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "United States",
+         "speakers": [
+            { "name": "Jason Hinman" },
+            { "name": "Adam DeHavenon" }
+         ],
+         "startTime": (new Date('November 6, 2019 13:40:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 14:20:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Mexico",
+         "speakers": [
+            { "name": "Antonio Arauz" },
+            { "name": "Steven Warach" },
+            { "name": "Lou Caplan" }
+         ],
+         "startTime": (new Date('November 6, 2019 14:50:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 15:30:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Japan",
+         "speakers": [
+            { "name": "Noboyuki Sakai" },
+            { "name": "Naoki Kaneki" }
+         ],
+         "startTime": (new Date('November 6, 2019 15:30:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 16:10:00')).getTime() / 1000,
+         "day": 2
+      },
+      {
+         "country": "Mongolia & Korea",
+         "speakers": [
+            { "name": "Amarbayasgalan Ravdan" },
+            { "name": "Ganbaatar Rentsenkhuu" },
+            { "name": "Woo-Keun Seo" },
+            { "name": "Jongwon Chung" },
+         ],
+         "startTime": (new Date('November 6, 2019 16:10:00')).getTime() / 1000,
+         "endTime": (new Date('November 6, 2019 16:50:00')).getTime() / 1000,
+         "day": 2
+      }
+   ]
+}

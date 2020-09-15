@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Collaterals",
+    "slug": "collaterals",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#54D0DB"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "enabled": true,
+      "checkAutomatically": "ON_LOAD"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.collateralperfusion.collaterals",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to scan qr codes to check in."
+      },
+      "buildNumber": "3"
+    },
+    "android": {
+      "package": "com.collateralperfusion.collaterals",
+      "permissions": [
+        "CAMERA"
+      ]
+    },
+    "primaryColor": "#54D0DB",
+    "description": ""
+  }
+}
